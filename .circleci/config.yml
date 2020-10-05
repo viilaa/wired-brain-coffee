@@ -9,8 +9,8 @@ jobs:
       
       - run:
           name: Saludos
-          command: echo Hello,world.
-          
-       - run:
-          name: Imprime la fecha actual
+          command: echo Hello, world.
+      
+      - run:
+          name: Imrprime la fecha actual
           command: date
