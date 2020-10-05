@@ -3,15 +3,14 @@ comment: "This issue is closed because it does not meet our issue template. Plea
 issueConfigs:
 # There can be several configs for different kind of issues.
 - content:
-# Example 1: bug report
-  - "Expected Behavior"
-  - "Current Behavior"
-  - "Steps to Reproduce"
-  - "Detailed Description"
+# Example 1: Bug report
+  - "Describe the bug"
+  - "Steps to reproduce"
+  - "Expected behavior"
 - content:
-# Example 2: feature request
-  - "Motivation / Use Case"
-  - "Expected Behavior"
-  - "Other Information"
+# Example 2: Feature request
+  - "Use case"
+  - "Expected behaviour"
+  - "Additional context"
 # The issue is judged to be legal if it includes all keywords from any of these two configs.
 # Or it will be closed by the app.
